@@ -2,6 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Laravel , vue.js 
 - 💞️ I’m currently practicing & working on my programming skills
+- 📪 You can contact me xiniababar96@gmail.com
 
 <!---
 zinniababar96/zinniababar96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

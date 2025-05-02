@@ -2,6 +2,8 @@
 <h1 align="center">Hi 👋, I'm Zinnia Babar</h1>
 <h3 align="center">A passionate Full Stack Developer from Pakistan</h3>
 
+<img align="right" width="400" src="https://github.com/zinniababar96/zinniababar96/blob/main/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif?raw=true">
+
 - 📫 How to reach me **xiniababar96@gmail.com**
 
 <h3 align="left">Connect with me:</h3>

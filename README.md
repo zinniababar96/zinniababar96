@@ -1,3 +1,4 @@
+![logo](https://github.com/zinniababar96/zinniababar96/blob/main/programming-background-collage.jpg)
 <h1 align="center">Hi 👋, I'm Zinnia Babar</h1>
 <h3 align="center">A passionate Full Stack Developer from Pakistan</h3>
 
